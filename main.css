@@ -1,0 +1,18 @@
+.About{
+    display: flex;
+}
+.About_img{
+    width: 25%;
+}
+.Interest{
+    text-align: center;
+}
+p{
+    padding: 0 18%;
+}
+.Contacts{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 18%;
+
+}
